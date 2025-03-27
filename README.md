@@ -32,5 +32,9 @@ Aquí podrás encontrar algunos de los proyectos en los que estoy trabajando, qu
 
 Estoy abierto a nuevas oportunidades de colaboración y aprendizaje. No dudes en contactarme para hablar sobre proyectos, compartir ideas o simplemente conectar.
 
+Te dejo mi perfil de Linkedin [![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-diaz-cervantes-59a64a2aa/)
+
+Tambien si lo consideras más práctico este es mi correo: [Tu correo electrónico] (Tu_correo@dominio.com)
+
 ¡Gracias por visitar mi perfil! 😄!
 
