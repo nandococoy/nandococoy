@@ -5,6 +5,17 @@
 
 Estoy estudiando para convertirme en **Analista de Datos**, aprendiendo herramientas de programación como Python, SQL y otras tecnologías, con el objetivo de transformar grandes volúmenes de datos en información útil para mejorar el rendimiento de las organizaciones.
 
+### :hammer_and_wrench: Lenguajes y herramientas :
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+
+</div>
+
 ## 🌱 Lo que busco
 
 Estoy constantemente buscando nuevas oportunidades de aprendizaje y crecimiento profesional. Me interesa trabajar en proyectos que me permitan aplicar mis conocimientos financieros, mis habilidades en análisis de datos y mi experiencia en la optimización de procesos para contribuir al éxito de las organizaciones.
@@ -21,5 +32,5 @@ Aquí podrás encontrar algunos de los proyectos en los que estoy trabajando, qu
 
 Estoy abierto a nuevas oportunidades de colaboración y aprendizaje. No dudes en contactarme para hablar sobre proyectos, compartir ideas o simplemente conectar.
 
-¡Gracias por visitar mi perfil! 😄<!--
+¡Gracias por visitar mi perfil! 😄!
 
