@@ -34,7 +34,7 @@ Estoy abierto a nuevas oportunidades de colaboración y aprendizaje. No dudes en
 
 Te dejo mi perfil de Linkedin [![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-diaz-cervantes-59a64a2aa/)
 
-Tambien si lo consideras más práctico este es mi correo: [Tu correo electrónico] (Tu_correo@dominio.com)
+Tambien si lo consideras más práctico este es mi correo: fersauriozeppeli@gmail.com
 
 ¡Gracias por visitar mi perfil! 😄!
 
